@@ -10,14 +10,15 @@ N/A
 
 ## Usage
 
-This guide is a single-page webpage, so you will see everything listed at once. There is a header and footer detailed by the blue background.
+This guide is a single-page webpage, so you will see everything listed at once. There is a header and footer detailed by the blue background, and if you open the Chrome DevTools by pressing `Command+Option+I` (MacOS) or `Control+Shift+I` (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.
+
 There are five sections in total featured in the guide:
 
-- **HTML (HyperText Markup Language)** - Notes that I learnt about HTML through the Prework.
-- **CSS (Cascading Style Sheets)** - Notes that I learnt about CSS through the Prework.
+- **HTML (HyperText Markup Language)** - Notes that I learned about HTML through the Prework.
+- **CSS (Cascading Style Sheets)** - Notes that I learned about CSS through the Prework.
 - **CLI (Command Line Interface)** - Notes that I added for the Command Line Interface, as this was a completely new interface I had not used before.
 - **Git** - Notes that I added for the Git application, which allows me to pull, push and merge branches.
-- **JavaScript** - Notes that I learnt about JavaScript through the Prework.
+- **JavaScript** - Notes that I learned about JavaScript through the Prework.
 
 ## Features
 
